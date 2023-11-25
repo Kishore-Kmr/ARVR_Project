@@ -1,4 +1,5 @@
-Virtual 3D Burger Shop environment
+Virtual 3D Burger Shop environment.                                                                                                                                    
+
 To execute the project:
 1.Clone the repository to your local machine.
 2. Open the project in Unity.
